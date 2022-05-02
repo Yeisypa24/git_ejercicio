@@ -10,7 +10,7 @@
 #   print (str (año+1))
 
 #ejercicio3
-# numero = int(input("escribe un numero entero"))
+# numero = int(input("escribe un 0numero entero"))
 # for i in range(numero+1) :
 #     print(i , end=",")
 
